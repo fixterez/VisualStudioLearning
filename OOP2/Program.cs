@@ -7,7 +7,7 @@ namespace OOP2
         static void Main(string[] args)
         {
             Musteri musteri1 = new Musteri();
-            
+
         }
     }
 }
